@@ -6,20 +6,20 @@ I created this CAD model of an Urban Air Mobility system for the AEAC student co
 
 The render can be seen below:
 
-![Multirotor CAD Model](multi_rotor_render.png)
+![Multirotor CAD Model](images/multi_rotor_render.png)
 
 The physical build can be seen below:
 
-![Multirotor Physical](multi_rotor_actual.jpeg)
+![Multirotor Physical](images/multi_rotor_actual.jpeg)
 
 ## Tilt Wing Model
 
 The renders can be seen below:
 
-![Tilt Wing CAD Model](tilt_wing_render_1.png)
+![Tilt Wing CAD Model](images/tilt_wing_render_1.png)
 
-![Tilt Wing CAD Model](tilt_wing_render_2.png)
+![Tilt Wing CAD Model](images/tilt_wing_render_2.png)
 
 The physical build can be seen below:
 
-![Tilt Wing Physical](tilt_wing_actual.jpeg)
+![Tilt Wing Physical](images/tilt_wing_actual.jpeg)
